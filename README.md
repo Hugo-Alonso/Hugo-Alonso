@@ -24,7 +24,7 @@
 <h2 align="center">🔧 Habilidades y Tecnologías</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git,github,java,cpp,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,cpp,git,java,vuejs,nodejs,react,github,mysql" />
 </p>
 
 <div align="center">
@@ -80,10 +80,6 @@
   <a href="https://github.com/Hugo-Alonso">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30%">
 </p>
 
 ---
