@@ -1,35 +1,91 @@
-# 👋 Hola, soy Hugo Alonso Toledo  
+<h1 align="center">
+  Hola, soy <a href="https://github.com/Hugo-Alonso">Hugo Alonso Toledo</a>
+  <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
+</h1>
 
-### Desarrollador Web Full Stack y Estudiante de Ingeniería Informática  
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+y+mejorando">
+  </a>
+</p>
 
-Soy un apasionado de la programación web y las nuevas tecnologías, siempre buscando crecer como profesional mediante la adquisición y aplicación de conocimientos técnicos avanzados. Mi objetivo es desarrollar soluciones innovadoras y de calidad que resuelvan problemas del mundo real.
+<h2 align="center">🌐 Sobre mí</h2>
 
-## 🚀 Acerca de mí  
-- 🎓 **Estudiante de Ingeniería Informática** en la Universidad Autónoma de Barcelona (Mención en Tecnologías de la Información). Actualmente cursando 4.º año.  
-- 💻 Experiencia en desarrollo web (Frontend y Backend) y mantenimiento técnico en el área de informática.  
-- 🌱 Siempre aprendiendo: actualmente profundizo en tecnologías como React, Node.js y gestión de bases de datos.  
-- 📍 Ubicación: Barcelona, España  
+<p align="center">
+  <div><p align="center">🎓 Soy <strong>estudiante de Ingeniería Informática</strong> en la <a href="https://www.uab.cat">Universidad Autónoma de Barcelona</a>, con mención en Tecnologías de la Información.</p></div>
+  <div><p align="center">💻 Tengo experiencia en desarrollo web tanto en <strong>Frontend</strong> como en <strong>Backend</strong>, así como en mantenimiento técnico en informática.</p></div>
+  <div><p align="center">🌱 Actualmente profundizo mis conocimientos en tecnologías como <strong>React</strong>, <strong>Node.js</strong>, y gestión de <strong>bases de datos</strong>.</p></div>
+  <div><p align="center">📍 Vivo en <strong>Barcelona, España</strong>.</p></div>
+  <div><p align="center">⚡ Me apasiona enfrentar nuevos desafíos y seguir creciendo como profesional.</p></div>
+</p>
 
-## 📜 Certificaciones  
-- **Responsive Web Design**  
+<br>
+
+<h2 align="center">🔧 Habilidades y Tecnologías</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git,github,java,cpp,mysql" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-Alonso&layout=compact&theme=radical&langs_count=6"/>
+</div>
+
+<br>
+
+<h2 align="center">🎓 Certificaciones</h2>
+
+<p align="center">
+  <strong>Responsive Web Design</strong>  
   Otorgado por FreeCodeCamp.  
-  [🔗 Ver credencial](https://www.freecodecamp.org/certification/HugoAlonso/responsive-web-design)
-  
-## 🛠️ Herramientas y Tecnologías  
-- **Lenguajes de Programación**: HTML/CSS, JavaScript, Java, C++, SQL  
-- **Frameworks y Librerías**: React, Vue.js, Node.js  
-- **Control de Versiones**: Git/GitHub  
+  <a href="https://www.freecodecamp.org/certification/HugoAlonso/responsive-web-design">🔗 Ver credencial</a>
+</p>
 
-## 🌐 Idiomas  
-- Español: **Nativo**  
-- Catalán: **Nativo**  
-- Inglés: **Avanzado**  
+<br>
 
-## 📫 Cómo contactarme   
-- 📧 **Email**: [hugoloansotoledo12@gmail.com](mailto:hugoalonsotoledo12@gmail.com)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/hugo-alonso-toledo)  
-- 🖥️ [GitHub](https://github.com/Hugo-Alonso)
+<h2 align="center">🌍 Idiomas</h2>
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <th>Idioma</th>
+      <th>Nivel</th>
+    </tr>
+    <tr>
+      <td>🇪🇸 Español</td>
+      <td>Nativo</td>
+    </tr>
+    <tr>
+      <td>🇨🇦 Catalán</td>
+      <td>Nativo</td>
+    </tr>
+    <tr>
+      <td>🇬🇧 Inglés</td>
+      <td>Avanzado</td>
+    </tr>
+  </table>
+</p>
+
+<br>
+
+<h2 align="center">📫 Contáctame</h2>
+
+<p align="center">
+  <a href="mailto:hugoloansotoledo12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hugo-alonso-toledo">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Hugo-Alonso">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30%">
+</p>
 
 ---
 
-⚡ Si necesitas un desarrollador web apasionado y con ganas de aprender, ¡estaré encantado de colaborar en tu próximo proyecto! 😊  
+<p align="center">⚡ Si necesitas un desarrollador web apasionado y con ganas de aprender, ¡estaré encantado de colaborar en tu próximo proyecto! 😊 </p>
