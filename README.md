@@ -56,7 +56,7 @@
       <td>Nativo</td>
     </tr>
     <tr>
-      <td>🇨🇦 Catalán</td>
+      <td>Catalán</td>
       <td>Nativo</td>
     </tr>
     <tr>
