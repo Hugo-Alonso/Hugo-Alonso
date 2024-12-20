@@ -38,7 +38,7 @@
 <p align="center">
   <strong>Responsive Web Design</strong>  
   Otorgado por FreeCodeCamp.  
-  <a href="https://www.freecodecamp.org/certification/HugoAlonso/responsive-web-design">🔗 Ver credencial</a>
+  <a href="https://www.freecodecamp.org/certification/HugoAlonso/responsive-web-design">🔗Ver credencial</a>
 </p>
 
 <br>
