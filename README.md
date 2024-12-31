@@ -24,7 +24,7 @@
 <h2 align="center">🔧 Habilidades y Tecnologías</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,cpp,git,java,vuejs,nodejs,react,github,mysql,jest,mongodb,firebase,selenium" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,cpp,git,java,vuejs,nodejs,react,github,mysql,jest,firebase,selenium,gherkin" />
 </p>
 
 <div align="center">
