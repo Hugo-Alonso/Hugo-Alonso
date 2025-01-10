@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+y+mejorando">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+y+mejorando;Full+Web+Developer">
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 <h2 align="center">🔧 Habilidades y Tecnologías</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,cpp,git,github,java,vuejs,nodejs,react,express,mongodb,mysql,firebase,jest,selenium,gherkin" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,cpp,git,github,java,vuejs,nodejs,react,express,mongodb,mysql,jest,selenium,gherkin" />
 </p>
 
 <div align="center">
