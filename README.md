@@ -13,8 +13,8 @@
 
 <p align="center">
   <div><p align="center">🎓 Soy <strong>estudiante de Ingeniería Informática</strong> en la <a href="https://www.uab.cat">Universidad Autónoma de Barcelona</a>, con mención en Tecnologías de la Información.</p></div>
-  <div><p align="center">💻 Tengo experiencia en desarrollo web tanto en <strong>Frontend</strong> como en <strong>Backend</strong>, así como en mantenimiento técnico en informática.</p></div>
-  <div><p align="center">🌱 Actualmente profundizo mis conocimientos en tecnologías como <strong>React</strong>, <strong>Node.js</strong>, y gestión de <strong>bases de datos</strong>.</p></div>
+  <div><p align="center">💻 Actualmente trabajo como <strong>Full Web Developer en prácticas</strong>, especializándome en el desarrollo <strong>Backend</strong>.</p></div>
+  <div><p align="center">🌱 Sigo profundizando mis conocimientos en <strong>Node.js</strong>, <strong>bases de datos</strong> y arquitectura de software.</p></div>
   <div><p align="center">📍 Vivo en <strong>Barcelona, España</strong>.</p></div>
   <div><p align="center">⚡ Me apasiona enfrentar nuevos desafíos y seguir creciendo como profesional.</p></div>
 </p>
