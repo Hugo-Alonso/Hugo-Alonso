@@ -12,8 +12,8 @@
 <h2 align="center">🌐 Sobre mí</h2>
 
 <p align="center">
-  <div><p align="center">🎓 Soy <strong>estudiante de Ingeniería Informática</strong> en la <a href="https://www.uab.cat">Universidad Autónoma de Barcelona</a>, con mención en Tecnologías de la Información.</p></div>
-  <div><p align="center">💻 Actualmente trabajo como <strong>Full Web Developer en prácticas</strong>, especializándome en el desarrollo <strong>Backend</strong>.</p></div>
+  <div><p align="center">🎓 Graduado en <strong>Ingeniería Informática</strong> en la <a href="https://www.uab.cat">Universidad Autónoma de Barcelona</a>, con mención en Tecnologías de la Información.</p></div>
+  <div><p align="center">💻 Actualmente trabajo como <strong>Full Web Developer en prácticas</strong>, especializándome en el desarrollo <strong>Full-Stack</strong>.</p></div>
   <div><p align="center">🌱 Sigo profundizando mis conocimientos en <strong>Node.js</strong>, <strong>bases de datos</strong> y arquitectura de software.</p></div>
   <div><p align="center">📍 Vivo en <strong>Barcelona, España</strong>.</p></div>
   <div><p align="center">⚡ Me apasiona enfrentar nuevos desafíos y seguir creciendo como profesional.</p></div>
@@ -24,7 +24,7 @@
 <h2 align="center">🔧 Habilidades y Tecnologías</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,cpp,git,github,java,vuejs,nodejs,react,express,mongodb,mysql,jest,selenium,gherkin,postman,graphql,vite,postgres,npm" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,cpp,git,github,java,vuejs,nodejs,react,express,mongodb,sql,jest,selenium,gherkin,postman,graphql,vite,postgres,npm" />
 </p>
 
 <div align="center">
